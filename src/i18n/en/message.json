@@ -1,0 +1,25 @@
+{
+  "success": "Success",
+  "countryCodeMissing": "Country code is missing",
+  "mobileNumberAlreadyExists": "Looks like you already have an account. Please login",
+  "emailAlreadyExists": "Looks like this email is already linked with another account. Please provide a different email",
+  "otpMismatch": "Sorry, unable to verify. Please check the code",
+  "userNotFound": "Requested user information not found",
+  "emailNotFound": "Email does not exist",
+  "incorrectPassword": "Sorry, unable to verify. Please check the code",
+  "mobileNumberNotFound": "Mobile number does not exist",
+  "invalidCredentials": "Invalid credentials",
+  "alreadyExists": "Looks like you already have an account. Please login",
+  "notAcceptable": "Provided data is not acceptable",
+  "invalidDataInput": "Invalid data input",
+  "emailAlreadyVerified": "Email already verified",
+  "mobileAlreadyVerified": "Mobile already verified",
+  "invalidToken": "Invalid token",
+  "sessionExpired": "Oops, your session has expired. Please login",
+  "notFound": "Requested information not found",
+  "adminNotFound": "Requested admin information not found",
+
+  "emailOtpSubject": "NestJS Starter - OTP for email verification",
+
+  "smsMobileVerification": " is your NestJS Starter verification code,"
+}
